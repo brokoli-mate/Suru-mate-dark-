@@ -1,1 +1,1 @@
-A little bit customed suru++ theme
+A little bit customized suru++ theme
