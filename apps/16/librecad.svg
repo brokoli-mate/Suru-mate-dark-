@@ -15,7 +15,7 @@
    inkscape:version="0.92.2 (unknown)"
    sodipodi:docname="librecad-symbolic.svg">
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#F7F7F7"
      bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
@@ -49,19 +49,19 @@
        id="linearGradient3924-4-8">
       <stop
          id="stop3926-0-4"
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#F7F7F7;stop-opacity:1"
          offset="0" />
       <stop
          id="stop3928-6-8"
-         style="stop-color:#ffffff;stop-opacity:0.23529412"
+         style="stop-color:#F7F7F7;stop-opacity:0.23529412"
          offset="0.06316455" />
       <stop
          id="stop3930-2-1"
-         style="stop-color:#ffffff;stop-opacity:0.15686275"
+         style="stop-color:#F7F7F7;stop-opacity:0.15686275"
          offset="0.95056331" />
       <stop
          id="stop3932-9-0"
-         style="stop-color:#ffffff;stop-opacity:0.39215687"
+         style="stop-color:#F7F7F7;stop-opacity:0.39215687"
          offset="1" />
     </linearGradient>
     <radialGradient

@@ -12,8 +12,8 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg7"
-   sodipodi:docname="chrome-apdfllckaahabafndbhieahigkjlhalf-Default.svg"
-   inkscape:version="0.92.2 (unknown)">
+   sodipodi:docname="googledrive-symbolic.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata11">
     <rdf:RDF>
@@ -41,7 +41,7 @@
      inkscape:zoom="14.75"
      inkscape:cx="0.74576271"
      inkscape:cy="8"
-     inkscape:window-x="0"
+     inkscape:window-x="58"
      inkscape:window-y="34"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg7" />
@@ -54,7 +54,7 @@
   </style>
   </defs>
   <path
-     style="fill:#808080;opacity:1;fill-opacity:1"
+     style="fill:#eeeeec;opacity:1;fill-opacity:1"
      class="ColorScheme-Text"
      d="M 5.5 0.98046875 L 10.5 9.9804688 L 16 9.9804688 L 10.666016 0.98046875 L 5.5 0.98046875 z M 5 2.0195312 L 0 11.019531 L 2.6660156 15.019531 L 7.6992188 7.0195312 L 5 2.0195312 z M 6.5 10.960938 L 4 14.958984 L 13.332031 14.958984 L 16 10.960938 L 6.5 10.960938 z"
      id="path5" />

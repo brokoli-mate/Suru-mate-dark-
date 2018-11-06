@@ -12,10 +12,10 @@
    id="svg7384"
    version="1.1"
    width="15.999999"
-   sodipodi:docname="qtassistant.svg"
+   sodipodi:docname="qtassistant-symbolic.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#F7F7F7"
      bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
@@ -28,12 +28,12 @@
      id="namedview22"
      showgrid="true"
      inkscape:zoom="29.5"
-     inkscape:cx="-7.2142046"
+     inkscape:cx="-0.50234017"
      inkscape:cy="6.5133637"
-     inkscape:window-x="1"
+     inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer4-3">
+     inkscape:current-layer="g33">
     <inkscape:grid
        type="xygrid"
        id="grid1413" />
@@ -66,7 +66,7 @@
       <stop
          id="stop4528"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient3600-4"

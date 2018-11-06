@@ -12,8 +12,8 @@
    id="svg7384"
    version="1.1"
    width="16.000031"
-   sodipodi:docname="media-import-audio-cd.svg"
-   inkscape:version="0.92.2 (unknown)">
+   sodipodi:docname="stock_xfburn-audio-copy-symbolic.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <sodipodi:namedview
      pagecolor="#808080"
      bordercolor="#808080666"
@@ -23,14 +23,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1469"
+     inkscape:window-width="1308"
      inkscape:window-height="657"
      id="namedview16"
      showgrid="false"
      inkscape:zoom="14.74997"
-     inkscape:cx="8.0000153"
-     inkscape:cy="8.0000162"
-     inkscape:window-x="92"
+     inkscape:cx="8.0000152"
+     inkscape:cy="8.0000161"
+     inkscape:window-x="58"
      inkscape:window-y="64"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg7384" />
@@ -39,7 +39,7 @@
     <rdf:RDF>
       <cc:Work
          rdf:about="">
-        <dc:title></dc:title>
+        <dc:title />
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
@@ -68,38 +68,42 @@
   <g
      id="layer9"
      label="status"
-     style="display:inline"
+     style="display:inline;fill:#eeeeec"
      transform="translate(-513.0002,207)" />
   <g
      id="layer2"
-     transform="translate(-272,-160)" />
+     transform="translate(-272,-160)"
+     style="fill:#eeeeec" />
   <g
      id="layer3"
-     style="display:inline"
+     style="display:inline;fill:#eeeeec"
      transform="translate(-272,-160)" />
   <g
      id="g6217"
-     transform="matrix(0.875,0,0,0.875,-252.10172,-141.3559)">
+     transform="matrix(0.875,0,0,0.875,-252.10172,-141.3559)"
+     style="fill:#eeeeec">
     <path
        d="m 296.11625,161.54964 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -8,-8 z m 0,1 a 7,7 0 0 1 7,7 7,7 0 0 1 -7,7 7,7 0 0 1 -7,-7 7,7 0 0 1 7,-7 z"
        id="path7069"
-       style="display:inline;opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
   <g
      id="layer1"
-     transform="translate(-272,-160)" />
+     transform="translate(-272,-160)"
+     style="fill:#eeeeec" />
   <g
      transform="matrix(0.875,0,0,0.875,-236,-137.99997)"
-     id="g827-3">
+     id="g827-3"
+     style="fill:#eeeeec">
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path823-6"
        d="m 280,165 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z m 0,1.5 a 1.5,1.5 0 0 1 1.5,1.5 1.5,1.5 0 0 1 -1.5,1.5 1.5,1.5 0 0 1 -1.5,-1.5 1.5,1.5 0 0 1 1.5,-1.5 z" />
     <path
        inkscape:connector-curvature="0"
-       style="display:inline;opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path825-7"
        d="m 280,160 c -4.41828,0 -8,3.58172 -8,8 0,4.41828 3.58172,8 8,8 4.41828,0 8,-3.58172 8,-8 0,-4.41828 -3.58172,-8 -8,-8 z m 0.15496,5.41647 2.58353,2.81598 -2.50604,2.04115 L 277.80388,168 Z"
        sodipodi:nodetypes="sssssccccc" />

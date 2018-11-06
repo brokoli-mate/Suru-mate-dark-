@@ -15,7 +15,7 @@
    sodipodi:docname="openjdk-8-symbolic.svg"
    inkscape:version="0.92.2 (unknown)">
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#F7F7F7"
      bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
@@ -40,19 +40,19 @@
        id="linearGradient3924-1">
       <stop
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#F7F7F7;stop-opacity:1"
          id="stop3926-3" />
       <stop
          offset="0.06316455"
-         style="stop-color:#ffffff;stop-opacity:0.23529412"
+         style="stop-color:#F7F7F7;stop-opacity:0.23529412"
          id="stop3928-91" />
       <stop
          offset="0.95056331"
-         style="stop-color:#ffffff;stop-opacity:0.15686275"
+         style="stop-color:#F7F7F7;stop-opacity:0.15686275"
          id="stop3930-6" />
       <stop
          offset="1"
-         style="stop-color:#ffffff;stop-opacity:0.39215687"
+         style="stop-color:#F7F7F7;stop-opacity:0.39215687"
          id="stop3932-6" />
     </linearGradient>
     <linearGradient

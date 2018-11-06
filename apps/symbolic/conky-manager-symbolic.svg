@@ -13,7 +13,7 @@
    version="1.1"
    width="16"
    sodipodi:docname="conky-manager-symbolic.svg"
-   inkscape:version="0.92.3 (unknown)">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <sodipodi:namedview
      pagecolor="#F7F7F7"
      bordercolor="#F7F7F7666"
@@ -23,15 +23,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-width="1308"
+     inkscape:window-height="742"
      id="namedview21"
      showgrid="true"
      inkscape:zoom="51.875"
      inkscape:cx="8"
      inkscape:cy="8"
-     inkscape:window-x="0"
-     inkscape:window-y="34"
+     inkscape:window-x="58"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg7384">
     <inkscape:grid
@@ -84,36 +84,39 @@
   <g
      id="layer9"
      label="status"
-     style="display:inline"
+     style="display:inline;fill:#eeeeec"
      transform="translate(-732.5002,187.00001)" />
   <g
      id="layer2"
-     transform="translate(-491.5,-179.99999)" />
+     transform="translate(-491.5,-179.99999)"
+     style="fill:#eeeeec" />
   <g
      id="g1812"
-     style="display:inline"
+     style="display:inline;fill:#eeeeec"
      transform="translate(-491.5,-179.99999)" />
   <g
      id="g6217"
-     transform="translate(-491.5,-179.99999)" />
+     transform="translate(-491.5,-179.99999)"
+     style="fill:#eeeeec" />
   <g
      id="layer3"
-     style="display:inline"
+     style="display:inline;fill:#eeeeec"
      transform="translate(-491.5,-179.99999)" />
   <g
      id="g1833"
-     style="display:inline"
+     style="display:inline;fill:#eeeeec"
      transform="translate(-491.5,-179.99999)" />
   <g
      id="layer1"
-     transform="translate(-491.5,-179.99999)" />
+     transform="translate(-491.5,-179.99999)"
+     style="fill:#eeeeec" />
   <path
-     style="fill:#F7F7F7666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 0.5,3 v 10 h 6 v -1 h -5 V 4 h 5 V 3 Z"
      id="path833"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:#F7F7F7666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="M 7.5,13 V 3 h 1 l 3,2.6324626 L 14.5,3 h 1 v 10 h -1 V 4.4287936 L 11.5,7 8.5,4.4696311 V 13 Z"
      id="path837"
      inkscape:connector-curvature="0"

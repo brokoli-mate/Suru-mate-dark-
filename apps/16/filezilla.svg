@@ -21,19 +21,19 @@
        id="linearGradient4081">
       <stop
          id="stop4083"
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#F7F7F7;stop-opacity:1;"
          offset="0" />
       <stop
          offset="0.06316455"
-         style="stop-color:#ffffff;stop-opacity:0.23529412;"
+         style="stop-color:#F7F7F7;stop-opacity:0.23529412;"
          id="stop4085" />
       <stop
          id="stop4087"
-         style="stop-color:#ffffff;stop-opacity:0.15686275;"
+         style="stop-color:#F7F7F7;stop-opacity:0.15686275;"
          offset="0.95056331" />
       <stop
          id="stop4089"
-         style="stop-color:#ffffff;stop-opacity:0.39215687;"
+         style="stop-color:#F7F7F7;stop-opacity:0.39215687;"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -66,7 +66,7 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#F7F7F7"
      bordercolor="#F7F7F7666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"

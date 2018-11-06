@@ -17,7 +17,7 @@
    inkscape:version="0.92.3 (unknown)"
    sodipodi:docname="trillian-symbolic.svg">
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#F7F7F7"
      bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
@@ -55,19 +55,19 @@
        id="linearGradient3977">
       <stop
          id="stop3979"
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#F7F7F7;stop-opacity:1"
          offset="0" />
       <stop
          id="stop3981"
-         style="stop-color:#ffffff;stop-opacity:0.23529412"
+         style="stop-color:#F7F7F7;stop-opacity:0.23529412"
          offset="0.02929282" />
       <stop
          id="stop3983"
-         style="stop-color:#ffffff;stop-opacity:0.15686275"
+         style="stop-color:#F7F7F7;stop-opacity:0.15686275"
          offset="0.97230476" />
       <stop
          id="stop3985"
-         style="stop-color:#ffffff;stop-opacity:0.39215687"
+         style="stop-color:#F7F7F7;stop-opacity:0.39215687"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -183,19 +183,19 @@
        id="linearGradient3977-4">
       <stop
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#F7F7F7;stop-opacity:1"
          id="stop3979-7" />
       <stop
          offset="0.01214366"
-         style="stop-color:#ffffff;stop-opacity:0.23529412"
+         style="stop-color:#F7F7F7;stop-opacity:0.23529412"
          id="stop3981-6" />
       <stop
          offset="0.98781353"
-         style="stop-color:#ffffff;stop-opacity:0.15686275"
+         style="stop-color:#F7F7F7;stop-opacity:0.15686275"
          id="stop3983-5" />
       <stop
          offset="1"
-         style="stop-color:#ffffff;stop-opacity:0.39215687"
+         style="stop-color:#F7F7F7;stop-opacity:0.39215687"
          id="stop3985-6" />
     </linearGradient>
     <linearGradient

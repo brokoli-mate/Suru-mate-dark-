@@ -1,12 +1,6 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" height="24" version="1.1" width="24" id="svg2">
- <defs id="defs10">
-  <style type="text/css" id="current-color-scheme">
-   .ColorScheme-Text { color:#F7F7F7; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
-  </style>
- </defs>
- <title id="title4">
-  Paper Symbolic Icon Theme
- </title>
- <path style="fill:currentColor" d="m 12.00028,5.00001 c 0.55228,0 1,0.44772 1,1 -2.9e-4,0.0333 -0.002,0.0665 -0.006,0.0996 C 15.2846,6.55844 17.00031,8.57084 17.00014,11 L 17,12.99999 l 0,2.5 2,2 0,0.5 -2,0 -10,0 -2,0 0,-0.5 2,-2 L 7.00014,11 C 7.00022,8.57084 8.71582,6.55843 11.006,6.09961 11.002,6.06651 11,6.03331 11,6.00001 c 0,-0.55228 0.44772,-1 1,-1 z M 13.72866,19 c -0.35663,0.61771 -1.01525,0.99874 -1.72852,1 -0.71397,-5.6e-4 -1.37349,-0.38169 -1.73047,-1 z" id="path6" class="ColorScheme-ButtonBackground"/>
+<svg height='16' width='16' xmlns='http://www.w3.org/2000/svg'>
+    <g color='#F7F7F7' transform='translate(-293 211)'>
+        <path d='M301-210.01a1 1 0 0 0-1 1v.01c-1.764.456-2.998 2.168-3 3.99 0 0 0 5-1.66 5.622-.016.01-.023.03-.04.043a.726.726 0 0 0-.161.175c-.018.027-.039.048-.053.077a.738.738 0 0 0-.086.334c0 .415.335.75.75.75h10.5c.416 0 .75-.335.75-.75a.738.738 0 0 0-.086-.334c-.014-.03-.035-.05-.052-.077a.725.725 0 0 0-.162-.175c-.016-.012-.023-.033-.04-.043-1.66-.622-1.66-5.622-1.66-5.622-.002-1.822-1.235-3.534-3-3.99v-.01a1 1 0 0 0-1-1zm-1.933 13a2 2 0 0 0 1.933 1.5 2 2 0 0 0 1.936-1.5z' fill='#F7F7F7' overflow='visible' style='isolation:auto;mix-blend-mode:normal;marker:none'/>
+        
+    </g>
 </svg>

@@ -33,7 +33,7 @@
      bordercolor="#F7F7F7666"
      borderopacity="1.0"
      inkscape:current-layer="layer3"
-     inkscape:cx="-11.753112"
+     inkscape:cx="-0.46239992"
      inkscape:cy="6.3204142"
      inkscape:document-units="px"
      inkscape:guide-bbox="true"
@@ -71,7 +71,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>

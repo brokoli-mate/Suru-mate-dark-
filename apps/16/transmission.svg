@@ -29,7 +29,7 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#F7F7F7"
      bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
@@ -73,7 +73,7 @@
     <linearGradient
        id="linearGradient3678">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#F7F7F7;stop-opacity:1;"
          offset="0"
          id="stop3680" />
       <stop

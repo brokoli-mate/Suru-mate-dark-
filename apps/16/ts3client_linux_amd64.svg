@@ -28,7 +28,7 @@
   <defs
      id="defs10" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#F7F7F7"
      bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
@@ -84,19 +84,19 @@
        id="radialGradient4542">
       <stop
          id="stop4534"
-         style="stop-color:#FFFFFF;stop-opacity:0"
+         style="stop-color:#F7F7F7;stop-opacity:0"
          offset="0" />
       <stop
          id="stop4536"
-         style="stop-color:#FFFFFF;stop-opacity:0.0804"
+         style="stop-color:#F7F7F7;stop-opacity:0.0804"
          offset="0.4657" />
       <stop
          id="stop4538"
-         style="stop-color:#FFFFFF;stop-opacity:0.2143"
+         style="stop-color:#F7F7F7;stop-opacity:0.2143"
          offset="0.9861" />
       <stop
          id="stop4540"
-         style="stop-color:#FFFFFF;stop-opacity:0"
+         style="stop-color:#F7F7F7;stop-opacity:0"
          offset="1" />
     </radialGradient>
     <path
