@@ -10,8 +10,8 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg6"
-   sodipodi:docname="kdenlive-zindex-top.svg"
-   inkscape:version="0.92.2 (unknown)">
+   sodipodi:docname="application-torrent.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -20,7 +20,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,7 +40,7 @@
      inkscape:zoom="14.75"
      inkscape:cx="0.74576271"
      inkscape:cy="8"
-     inkscape:window-x="0"
+     inkscape:window-x="58"
      inkscape:window-y="34"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg6" />
@@ -55,7 +55,7 @@
       </style>
   </defs>
   <path
-     style="color:#808080;fill:currentColor;fill-opacity:1;stroke:none"
+     style="color:#808080;fill:#eeeeec;fill-opacity:1;stroke:none"
      d="M 13.5,7.984375 12.773438,7.2558594 8.5449219,11.496094 8.5,1.5 h -1 L 7.5175781,11.560547 3.226562,7.2558594 2.5,7.984375 8,13.5 Z"
      class="ColorScheme-Text"
      id="path4"
